@@ -1,0 +1,16 @@
+FITCONTROL PRO v12.2 - EDICIÓN ROSA PASTEL
+
+Cambios aplicados:
+- Se conservaron todas las secciones originales:
+  Plan semanal, Registrar, Historial, Peso y medidas,
+  Proyección, Nutrición y Catálogo.
+- Se eliminaron únicamente los registros personales precargados:
+  actividades, historial, peso, medidas y nutrición.
+- El plan semanal, los ejercicios, las recomendaciones,
+  las imágenes y el catálogo editable se conservaron.
+- Se agregó una limpieza única de datos personales anteriores
+  almacenados en el navegador, sin eliminar rutinas ni catálogo.
+- Se aplicó una paleta rosa pastel, malva y lavanda.
+
+Uso:
+Abra index.html o ejecute INICIAR-FITCONTROL.bat.
